@@ -1,0 +1,1 @@
+A demo to showcase some of what Spark with Python can do! To use this you must have Python installed on your computer. To run this program open your terminal and cd over to the root directory of this project then run `py ./pySpark-demo`
